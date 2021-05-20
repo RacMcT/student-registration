@@ -1,0 +1,13 @@
+form {
+  background-color: aliceblue;
+  text-align: center;
+  border: 1px solid black;
+}
+
+button {
+  border-radius: 45%;
+}
+
+button:hover {
+  background-color: aquamarine;
+}
